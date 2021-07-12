@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the personal site of Henry Carscadden. You will find here a list of publications, projects, CV, and etc. I will
-be posting tutorials here as I see fit. The views represented herein do not represent those of any entity that I am associated with it.
+Welcome, you have stumbled upon the personal site of Henry Carscadden. This site is used to post some code, findings, tutorials, musings, and etc.
+
+
 

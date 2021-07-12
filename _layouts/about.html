@@ -1,13 +1,40 @@
 <!doctype html>
+<style>
+.page {
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+}
+
+footer {
+ margin-top: auto;
+}
+
+#about-me-text {
+	min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+
+}
+
+</style>
+
 <html>
   <head>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
   </head>
-  <body>
+  <body class="bg-dark text-white"> 
     {% include navigation.html %}
+    <div class="page">
+    <div id="about-me-text" class="p-3 mb-2 bg-secondary text-white"> 
     <h1>About Me</h1>
-    {{ content }}
+    <div class="container-fluid">
+		    {{ content }}
+    </div>
+    </div>
+    {% include footer.html %}
+    </div>
   </body>
 </html>
