@@ -16,8 +16,18 @@ footer {
  flex-direction: column;
 
 }
+ 
 
 </style>
+<!-- for mathjax support -->
+    {% if page.usemathjax %}
+      <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+        TeX: { equationNumbers: { autoNumber: "AMS" } }
+        });
+      </script>
+      <script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
 
 <html>
   <head>
@@ -28,6 +38,7 @@ footer {
   <body class="bg-dark text-white"> 
     {% include navigation.html %}
     <div class="page">
+	    <h1>{{page.title}} </h1>
     <div id="home-main" class="p-3 mb-2 bg-secondary text-white"> 
 		    {{ content }}
     </div>
