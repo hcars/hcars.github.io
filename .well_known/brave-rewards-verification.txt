@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hcars.github.io
+Token: 0cd1470efd3548f2ae6bb9e35dcc10506294c04fc98af1180880a3c5bc659cef

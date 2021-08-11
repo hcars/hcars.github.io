@@ -9,17 +9,20 @@ layout: home
 <ul id="blog-list">
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}" class="blog-link">{{ post.title }}</a>
+      <a href="{{ post.url }}" class="blog-link" style="color:white;">{{ post.title }}</a>
+      <br>
+      <p>Posted on {{post.date}}</p>
     </li>
     
             
            <h6> Tags: </h6> <ul  class="tag">
 	   {% for tag in post.tags %}
-	    <li style="padding:10px;">
+	    <li style="padding:5px;">
 		{{tag}}
 	    </li>
 	    
 	  {% endfor %} 
 	</ul>
+    <hr style="color:black;">
   {% endfor %}
 </ul>
