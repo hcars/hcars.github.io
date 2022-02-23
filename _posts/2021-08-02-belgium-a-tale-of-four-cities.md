@@ -2,7 +2,7 @@
 layout: default
 title: Belgium- A Tale of Four Cities
 tags: Travel Europe Belgium
-published: true
+published: false
 ---
 # What is Belgium anyways?
 
