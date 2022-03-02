@@ -5,7 +5,7 @@ tags: Haskell, Functional Programming
 published: true
 ---
 
-# Introduction
+# First Thoughts
 
 In undergrad, I always heard about FP (functional programming), but I never sat down to actually learn a 
 functional language. All I knew about FP was a vague impression of being different from programming in other
