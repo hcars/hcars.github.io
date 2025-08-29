@@ -43,7 +43,7 @@ There is no water at the trailhead, and you will not reach water until you hit C
 
 The trailhead starts within the treeline. This trip, there was a section of impassable dirt road for my sedan at about a 1/4 mile from the trailhead, so beware. The first section gains about 2,000' on a real, maintained trail. Once you get above the treeline and cross Clear Creek, there are great camping options.
 
-{% include image.html url="/assets/clear_creek/clear_creek_to_base.JPG" description="Clear Creek Trail Heading Up to Base Camp" %}
+{% include image.html url="/assets/clear_creek/clear_creek_to_base.jpg" description="Clear Creek Trail Heading Up to Base Camp" %}
 
 
 Make sure to camp 100' from the spring!
@@ -57,7 +57,7 @@ From here, get an early bedtime. We started off around 3AM, and didn't make it b
 
 Once you leave basecamp and start heading up, there are two main options for switchbacks up. One veers off to the west and the other to the east. We took both, and the eastern one is far less steep and has less loose scree. Because of that I'd recommend ascending that way. Once past the first set of rocky outcroppings, the rest of the route is fully exposed all the way up to Mushroom Rock. Mushroom Rock is a visible red rock at about 12,000-13,000'. It makes a great place to rest and shelter from the elements before making the final push to the summit.
 
-{% include image.html url="/assets/clear_creek/mushroom_rock.JPG" description="Looking Down From Mushroom Rock" %}
+{% include image.html url="/assets/clear_creek/mushroom_rock.jpg" description="Looking Down From Mushroom Rock" %}
 
 
 After Mushroom Rock, a slog up a steep, rocky section comes up. There are drainages full of loose scree and dirt that are very slippery. Altneratively, there's plenty of rock to scramble, but it loves to break off!
