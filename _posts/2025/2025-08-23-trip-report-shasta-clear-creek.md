@@ -69,4 +69,6 @@ Once past the rocky section, the craggy true summit comes into view. There's a c
 
 I attempted to take the talus field up from the west of the true summit. I succeeded, but it was a bit perilous with all of the loose rock. Once you summit, enjoy the view and relax before a knee-crushing journey back to your car!
 
+# Buyer Beware!
 
+At base camp, a rather exhausted man with his visibly shaky friend in tow came trotting up to us and asked for water. He had clearly been out of water for quite some time and seemed to be carrying only one small, disposable plastic water bottle. They had started at 2AM that day from the trailhead, and it was now 6PM. **This is a long hike for most people. Please bring enough water!**
